@@ -1,1 +1,2 @@
-error: invalid toolchain: the path 'C:\Users\erfan\.rustup\toolchains\stable-x86_64-pc-windows-msvc' has no bin/ directory
+    Checking number-guessing-game v0.1.0 (C:\Programming\Rust\rust-projects\number-guessing-game)
+    Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.31s
